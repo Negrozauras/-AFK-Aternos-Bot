@@ -1,12 +1,12 @@
 {
-  "name": "Insta Negrozauras",
+  "name": "AFK",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "9182379",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "6Nminecraft.aternos.me:48556",
+    "ip": "6Nminecraft.aternos.me",
     "port": 48556,
     "version": "",
     "try-creative": false
